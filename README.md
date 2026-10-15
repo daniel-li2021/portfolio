@@ -1,5 +1,7 @@
 # Daniel Li · Portfolio
 
+[Published portfolio](https://portfolio-tan-eta-44.vercel.app/) · [GitHub profile](https://github.com/daniel-li2021)
+
 A lightweight engineering portfolio based on the existing `daniel-portfolio-v1` direction. Static HTML and CSS; no JavaScript, package installation, backend, database or build step.
 
 ## Preview and edit
